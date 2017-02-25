@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://davsmash20@bitbucket.org/davsmash20/dbvc.laravel.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
